@@ -1,0 +1,13 @@
+{
+  "name": "launch-agent",
+  "description": "/launch: fuzzy-find a repo or folder and start a background Claude agent there",
+  "owner": {
+    "name": "KeepThisTicket"
+  },
+  "plugins": [
+    {
+      "name": "launch-agent",
+      "source": "./"
+    }
+  ]
+}

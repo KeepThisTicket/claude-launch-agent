@@ -1,0 +1,10 @@
+{
+  "name": "launch-agent",
+  "version": "0.2.0",
+  "description": "/launch: fuzzy-find any repo or folder and start a background Claude agent there",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "KeepThisTicket"
+  }
+}
